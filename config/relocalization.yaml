@@ -1,0 +1,10 @@
+/**:
+  ros__parameters:
+    tf_buffer_cache_time_ms: 10000
+    use_sim_time: false
+    vocab_tree_path: /vocab_tree_flickr100K_words256K.bin
+    ply_path: /pointcloud.ply
+    database_path: /reconstruction/database.db
+    reconstruction_dir: /reconstruction
+    input_image_dirname: /input_images
+    intrinsic_path: /intrinsic.xml
